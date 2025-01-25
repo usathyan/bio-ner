@@ -1,0 +1,53 @@
+1. Mol Cell. 2024 Jan 18;84(2):244-260.e7. doi: 10.1016/j.molcel.2023.11.020. Epub 
+2023 Dec 14.
+
+FOXA1 forms biomolecular condensates that unpack condensed chromatin to function 
+as a pioneer factor.
+
+Ji D(1), Shao C(1), Yu J(2), Hou Y(3), Gao X(1), Wu Y(1), Wang L(4), Chen P(5).
+
+Author information:
+(1)Department of Immunology, School of Basic Medical Sciences, Beijing Key 
+Laboratory for Tumor Invasion and Metastasis, Capital Medical University, 
+Beijing 100069, China.
+(2)National Laboratory of Biomacromolecules, CAS Center for Excellence in 
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 
+100101, China.
+(3)National Laboratory of Biomacromolecules, CAS Center for Excellence in 
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 
+100101, China; Hubei Key Laboratory of Genetic Regulation and Integrative 
+Biology, School of Life Sciences, Central China Normal University, Wuhan 430079, 
+China.
+(4)National Laboratory of Biomacromolecules, CAS Center for Excellence in 
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 
+100101, China; Beijing Frontier Research Center for Biological Structure, School 
+of Life Sciences, Tsinghua University, Beijing 100084, China. Electronic 
+address: wanglian15@tsinghua.org.cn.
+(5)Department of Immunology, School of Basic Medical Sciences, Beijing Key 
+Laboratory for Tumor Invasion and Metastasis, Capital Medical University, 
+Beijing 100069, China; National Laboratory of Biomacromolecules, CAS Center for 
+Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of 
+Sciences, Beijing 100101, China. Electronic address: chenping@ccmu.edu.cn.
+
+Eukaryotic DNA is packaged into chromatin in the nucleus, restricting the 
+binding of transcription factors (TFs) to their target DNA sites. FOXA1 
+functions as a pioneer TF to bind condensed chromatin and initiate the opening 
+of local chromatin for gene expression. However, the principles of FOXA1 
+recruitment and how it subsequently unpacks the condensed chromatin remain 
+elusive. Here, we revealed that FOXA1 intrinsically forms submicron-sized 
+condensates through its N- and C-terminal intrinsically disordered regions 
+(IDRs). Notably, both IDRs enable FOXA1 to dissolve the condensed chromatin. In 
+addition, the DNA-binding capacity of FOXA1 contributes to its ability to both 
+form condensates and dissolve condensed chromatin. Further genome-wide 
+investigation showed that IDRs enable FOXA1 to bind and unpack the condensed 
+chromatin to regulate the proliferation and migration of breast cancer cells. 
+This work provides a principle of how pioneer TFs function to initiate competent 
+chromatin states using their IDRs.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2023.11.020
+PMID: 38101414 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.
